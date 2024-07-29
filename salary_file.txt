@@ -1,0 +1,4 @@
+Nata Lebedieva,2000
+Elena Gloda,1000
+Victor Vals,4000
+Olga Mic,5000
